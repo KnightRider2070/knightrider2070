@@ -41,11 +41,32 @@ Bash         11 mins         ▒░░░░░░░░░░░░░░░░
 ### 📊 GitHub Insights
 
 <div align="center">
-  <img  height="137px" src="https://github-readme-stats.vercel.app/api?username=knightrider2070&show_icons=true&theme=radical&hide_border=true&border_radius=12&custom_title=GitHub+Stats" />
-  <img  height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightrider2070&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=6&custom_title=Top+Languages"/>
+  
+  <!-- GitHub Stats -->
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=knightrider2070&show_icons=true&theme=blueberry&hide_border=true&border_radius=12&custom_title=GitHub+Stats" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=knightrider2070&show_icons=true&theme=graywhite&hide_border=true&border_radius=12&custom_title=GitHub+Stats" media="(prefers-color-scheme: light)" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=knightrider2070&show_icons=true&hide_border=true&border_radius=12&custom_title=GitHub+Stats" alt="GitHub Stats"/>
+  </picture>
+
+  <!-- Top Languages -->
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=knightrider2070&layout=compact&theme=blueberry&hide_border=true&border_radius=12&langs_count=6&custom_title=Top+Languages" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=knightrider2070&layout=compact&theme=graywhite&hide_border=true&border_radius=12&langs_count=6&custom_title=Top+Languages" media="(prefers-color-scheme: light)" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightrider2070&layout=compact&hide_border=true&border_radius=12&langs_count=6&custom_title=Top+Languages" alt="Top Languages"/>
+  </picture>
+
   <br/><br/>
-  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=knightrider2070&theme=radical&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&short_numbers=true" style="max-width: 720px;" />
+
+  <!-- GitHub Streak -->
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=knightrider2070&theme=blueberry&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&short_numbers=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=knightrider2070&theme=graywhite&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&short_numbers=true" media="(prefers-color-scheme: light)" />
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=knightrider2070&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&short_numbers=true" alt="GitHub Streak"/>
+  </picture>
+
 </div>
+
 
 </details>
 <p align="center">
