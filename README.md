@@ -21,23 +21,18 @@
 
 <details>
 <summary><strong>👨‍💻 Programmer Insights</strong></summary>
-  
+<!-- 
 ### ⏱️ Coding Activity (Last 7 Days)
+
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
+<!-- 
 <p align="center">
   <img src="https://raw.githubusercontent.com/knightrider2070/knightrider2070/main/assets/divider.svg" width="80%" />
 </p>
 
-
-
 ### 📊 GitHub Insights
-
+-->
 <div align="center">
   
   <!-- GitHub Stats -->
