@@ -23,6 +23,7 @@
 <summary><strong>👨‍💻 Programmer Insights</strong></summary>
   
 ### ⏱️ Coding Activity (Last 7 Days)
+<!--START_SECTION:waka-->
 
 ```txt
 TypeScript   23 hrs 47 mins  ████████████████████▓░░░░   82.00 %
@@ -31,7 +32,7 @@ JSON         1 hr 42 mins    █▒░░░░░░░░░░░░░░░
 Other        51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
 Bash         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
-
+<!--END_SECTION:waka-->
 <p align="center">
   <img src="https://raw.githubusercontent.com/knightrider2070/knightrider2070/main/assets/divider.svg" width="80%" />
 </p>
