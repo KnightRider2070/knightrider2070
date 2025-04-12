@@ -26,12 +26,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   23 hrs 47 mins  ████████████████████▓░░░░   82.00 %
-Python       2 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
-JSON         1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
-Other        51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Bash         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 <p align="center">
   <img src="https://raw.githubusercontent.com/knightrider2070/knightrider2070/main/assets/divider.svg" width="80%" />
